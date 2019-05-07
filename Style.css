@@ -1,0 +1,57 @@
+nav{
+	margin-top:30px;
+	margin-bottom:15px;
+	color:#c89bff;
+}
+
+.nav
+
+
+.contact{
+	text-align:center;
+}
+
+.contact i{
+	font-size: 100px;
+	margin-top: 40px;
+	margin-bottom: 5px;
+}
+
+.contact h5{
+  font-size: 35px;
+	margin-bottom: 50px;
+}
+
+h1{
+	color:#efedf2;
+}
+
+
+footer{
+	text-align:center;
+	background-color: #283e60;
+	color: lightblue;
+	margin-top: 20px;
+}
+
+body{
+	background-color: #383838;
+}
+
+main{
+	color:#c89bff;
+	max-width:1000px;
+	margin:0 auto;
+}
+
+p{
+	margin:30px;
+}
+
+.verticalcenter{
+	display: table-cell;
+    height:240px;
+    text-align: center;
+    width:1%;
+    vertical-align: middle;
+}
